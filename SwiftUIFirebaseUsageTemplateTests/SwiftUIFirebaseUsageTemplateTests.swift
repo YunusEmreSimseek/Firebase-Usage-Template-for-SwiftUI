@@ -141,7 +141,7 @@ final class SwiftUIFirebaseUsageTemplateTests: XCTestCase {
 
     // Items
     let email = "test@test.com"
-    let password = "1234567"
+    let password = "123456"
 
     // When
     let result = await authService.signIn(email: email, password: password)
