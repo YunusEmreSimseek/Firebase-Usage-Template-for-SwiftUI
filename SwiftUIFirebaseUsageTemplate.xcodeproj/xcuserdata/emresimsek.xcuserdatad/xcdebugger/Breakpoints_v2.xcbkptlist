@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "11FB1B33-D2C1-468C-88FF-2B6257DF1B3E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "55A95CBA-1429-4CBC-BC25-085DF748EF93"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUIFirebaseUsageTemplateTests/SwiftUIFirebaseUsageTemplateTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "testFirestoreServiceFetchItem()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "55A95CBA-1429-4CBC-BC25-085DF748EF93 - 1f2c6b5c71638bc7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for SwiftUIFirebaseUsageTemplateTests.SwiftUIFirebaseUsageTemplateTests.testFirestoreServiceFetchItem() async throws -&gt; ()"
+                  moduleName = "SwiftUIFirebaseUsageTemplateTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emresimsek/SwiftDevelopment/SwiftUIFirebaseUsageTemplate/SwiftUIFirebaseUsageTemplateTests/SwiftUIFirebaseUsageTemplateTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64">
+               </Location>
+               <Location
+                  uuid = "55A95CBA-1429-4CBC-BC25-085DF748EF93 - ad4125d6fee46fe7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for SwiftUIFirebaseUsageTemplateTests.SwiftUIFirebaseUsageTemplateTests.testFirestoreServiceFetchItem() async throws -&gt; ()"
+                  moduleName = "SwiftUIFirebaseUsageTemplateTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emresimsek/SwiftDevelopment/SwiftUIFirebaseUsageTemplate/SwiftUIFirebaseUsageTemplateTests/SwiftUIFirebaseUsageTemplateTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64">
+               </Location>
+               <Location
+                  uuid = "55A95CBA-1429-4CBC-BC25-085DF748EF93 - 1cc1bfb8148447b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SwiftUIFirebaseUsageTemplateTests.SwiftUIFirebaseUsageTemplateTests.testFirestoreServiceFetchItem() async throws -&gt; ()"
+                  moduleName = "SwiftUIFirebaseUsageTemplateTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emresimsek/SwiftDevelopment/SwiftUIFirebaseUsageTemplate/SwiftUIFirebaseUsageTemplateTests/SwiftUIFirebaseUsageTemplateTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
